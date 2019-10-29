@@ -11,7 +11,7 @@ Pod::Spec.new do |spec|
   # ―――  Spec Metadata  ―――――――――――――――――――――――――――――――――――――――――――――――――――――――――― #
 
   spec.name         = "EjuHKLib"
-  spec.version      = "0.0.1"
+  spec.version      = "0.1.0"
   spec.summary      = "EjuHKLib."
   spec.description  = <<-DESC
    generate a lib for housekeeper .
