@@ -1,0 +1,6 @@
+framework module EjuHKLib {
+  umbrella header "EjuHKLib-umbrella.h"
+
+  export *
+  module * { export * }
+}
